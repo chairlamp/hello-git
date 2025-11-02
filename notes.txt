@@ -1,1 +1,3 @@
 These are my notes for AI1030 Lab 12.
+
+# Insights: Learned basic flow.
